@@ -94,7 +94,7 @@ THRESHOLD_FREQ    = 5
 
 
 ## Future Enhancements (Planned)
-→ Threat intelligence integration (VirusTotal, etc.)
-→ Fast-Flux & DNS Amplification detection
-→ Web dashboard (Streamlit/Flask)
-→ SIEM export (ELK, Splunk)
+- Threat intelligence integration (VirusTotal, etc.)
+- Fast-Flux & DNS Amplification detection
+- Web dashboard (Streamlit/Flask)
+- SIEM export (ELK, Splunk)
