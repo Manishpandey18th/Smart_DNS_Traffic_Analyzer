@@ -85,10 +85,15 @@ THRESHOLD_FREQ    = 5
 
 ## Technologies Used
 → Python
+
 → Scapy (packet sniffing)
+
 → Tkinter (GUI)
+
 → Pandas & NumPy (data processing)
+
 → scikit-learn (Random Forest anomaly detection)
+
 → Npcap (Windows packet capture driver)
 
 
