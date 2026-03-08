@@ -2,11 +2,6 @@
 
 **Real-time DNS traffic monitoring tool that detects spoofing, tunneling, and suspicious patterns — with both CLI and beautiful Tkinter GUI.**
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=GUI+Screenshot+Here" alt="GUI Screenshot" width="800"/>
-  <!-- Replace with real screenshot when you have one -->
-</p>
-
 ## Table of Contents
 
 - [Features](#features)
