@@ -10,11 +10,8 @@
 - [How It Works](#how-it-works)
 - [Customization](#customization)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots) *(optional but recommended)*
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Features
 
 - ⚡ Real-time DNS packet capture and analysis (UDP port 53)
@@ -49,15 +46,13 @@ beepy==1.0.7
 → Download: https://npcap.com
 → Important: Select WinPcap API-compatible mode during installation
 
-5. Usage
+## Usage
 → Run CLI version
 ```bash python smart_dns_analyzer.py ```
 Run GUI version (Tkinter)
 ```bash python tkinter_gui.py ```
 
-6. How It Works
-→ How It Works
-
+## How It Works
 1. Captures live DNS traffic using Scapy
 2. Extracts key features from each query:
 → Entropy of domain name
