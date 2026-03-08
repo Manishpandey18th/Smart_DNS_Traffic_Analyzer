@@ -26,7 +26,8 @@
 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/smart-dns-analyzer.git
-cd smart-dns-analyzer ```
+cd smart-dns-analyzer
+```
 
 2. Install dependencies
 ```bash
@@ -48,9 +49,11 @@ beepy==1.0.7
 
 ## Usage
 → Run CLI version
-```bash python smart_dns_analyzer.py ```
+```bash python smart_dns_analyzer.py 
+```
 Run GUI version (Tkinter)
-```bash python tkinter_gui.py ```
+```bash python tkinter_gui.py 
+```
 
 ## How It Works
 1. Captures live DNS traffic using Scapy
@@ -74,7 +77,8 @@ Run GUI version (Tkinter)
 ```bash PythonTHRESHOLD_ENTROPY = 3.8
 THRESHOLD_LENGTH  = 35
 THRESHOLD_TTL     = 10
-THRESHOLD_FREQ    = 5 ```
+THRESHOLD_FREQ    = 5
+```
 
 ## Technologies Used
 → Python
@@ -84,12 +88,7 @@ THRESHOLD_FREQ    = 5 ```
 → scikit-learn (Random Forest anomaly detection)
 → Npcap (Windows packet capture driver)
 
-## Screenshots
 
-
- <img src="screenshots/gui-example.png" alt="GUI Example" width="600">
-  
-              Real-time GUI with color-coded alerts
 
 ## Future Enhancements (Planned)
 → Threat intelligence integration (VirusTotal, etc.)
