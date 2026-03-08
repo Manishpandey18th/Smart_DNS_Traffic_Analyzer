@@ -1,0 +1,824 @@
+2025-03-11 20:40:27,127 - DNS Query: lh3.google.com.
+Findings:
+  Length: 15
+  Entropy: 3.01
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:27,257 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 234
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:27,490 - DNS Query: ogads-pa.clients6.google.com.
+Findings:
+  Length: 29
+  Entropy: 3.80
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:27,512 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 226
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:27,754 - DNS Query: ogads-pa.clients6.google.com.
+Findings:
+  Length: 29
+  Entropy: 3.80
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:27,774 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 226
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,144 - DNS Query: optimizationguide-pa.googleapis.com.
+Findings:
+  Length: 36
+  Entropy: 3.83
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:28,212 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 223
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,227 - DNS Query: play.google.com.
+Findings:
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,255 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 223
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,346 - DNS Query: threat.api.mcafee.com.
+Findings:
+  Length: 22
+  Entropy: 3.39
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,387 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 523
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,523 - DNS Query: cdn4.buysellads.net.
+Findings:
+  Length: 20
+  Entropy: 3.58
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,540 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1420
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,562 - DNS Query: cdn.paddle.com.
+Findings:
+  Length: 15
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,577 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 154
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,809 - DNS Query: web2.temp-mail.org.
+Findings:
+  Length: 19
+  Entropy: 3.79
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,846 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 95
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:28,929 - DNS Query: www.googletagmanager.com.
+Findings:
+  Length: 25
+  Entropy: 3.40
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:28,992 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 223
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:29,770 - DNS Query: safebrowsing.googleapis.com.
+Findings:
+  Length: 28
+  Entropy: 3.80
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:29,827 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 223
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:30,412 - DNS Query: cdn.perfops.net.
+Findings:
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:30,431 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 300
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:30,675 - DNS Query: content-autofill.googleapis.com.
+Findings:
+  Length: 32
+  Entropy: 3.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:30,689 - DNS Query: lh3.googleusercontent.com.
+Findings:
+  Length: 26
+  Entropy: 3.64
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:30,694 - DNS Query: www.gstatic.com.
+Findings:
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:30,740 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 222
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:30,747 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 221
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:31,107 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9
+  Frequency (10s): 0
+  Prediction: Spoofing Detected
+2025-03-11 20:40:31,142 - DNS Query: send-anywhere.com.
+Findings:
+  Length: 18
+  Entropy: 3.68
+  Subdomains: 1
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:31,158 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 60
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:31,657 - DNS Query: safebrowsing.google.com.
+Findings:
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:31,664 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 222
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:32,280 - DNS Query: cdn.cookielaw.org.
+Findings:
+  Length: 18
+  Entropy: 3.53
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:32,360 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 238
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:32,813 - DNS Query: apis.google.com.
+Findings:
+  Length: 16
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:32,845 - DNS Query: wcs.naver.net.
+Findings:
+  Length: 14
+  Entropy: 3.18
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:32,863 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 223
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:32,879 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 141
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:33,322 - DNS Query: www.googletagservices.com.
+Findings:
+  Length: 26
+  Entropy: 3.63
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:33,328 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 219
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:33,978 - DNS Query: pagead2.googlesyndication.com.
+Findings:
+  Length: 30
+  Entropy: 3.83
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:34,035 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 217
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:34,274 - DNS Query: securepubads.g.doubleclick.net.
+Findings:
+  Length: 31
+  Entropy: 3.87
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:34,307 - DNS Query: btloader.com.
+Findings:
+  Length: 13
+  Entropy: 3.39
+  Subdomains: 1
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:34,354 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 218
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:34,448 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 54
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:34,525 - DNS Query: wcs.naver.com.
+Findings:
+  Length: 14
+  Entropy: 3.32
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:34,646 - DNS Query: ssl.pstatic.net.
+Findings:
+  Length: 16
+  Entropy: 3.11
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:34,836 - DNS Query: connect.facebook.net.
+Findings:
+  Length: 21
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:34,931 - DNS Query: wcs.naver.com.
+Findings:
+  Length: 14
+  Entropy: 3.32
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Normal
+2025-03-11 20:40:34,952 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1411
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:34,977 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8651
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:34,994 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 19647
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:35,028 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 19647
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:35,075 - DNS Query: js.stripe.com.
+Findings:
+  Length: 14
+  Entropy: 3.32
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:35,080 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 30
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:35,303 - DNS Query: d10lpsik1i8c69.cloudfront.net.
+Findings:
+  Length: 30
+  Entropy: 4.22
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:35,542 - DNS Query: d10lpsik1i8c69.cloudfront.net.
+Findings:
+  Length: 30
+  Entropy: 4.22
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:35,555 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 60
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:35,726 - DNS Query: t.fullres.net.
+Findings:
+  Length: 14
+  Entropy: 3.04
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:35,739 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1432
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:35,996 - DNS Query: nam.veta.naver.com.
+Findings:
+  Length: 19
+  Entropy: 3.16
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:36,308 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 299
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:37,758 - DNS Query: googleads.g.doubleclick.net.
+Findings:
+  Length: 28
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:38,063 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 215
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:38,333 - DNS Query: 6fd26ace779dc5612abfb34d2156f2d9.safeframe.googlesyndication.com.
+Findings:
+  Length: 65
+  Entropy: 4.44
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:38,594 - DNS Query: send-anywhere.zendesk.com.
+Findings:
+  Length: 26
+  Entropy: 3.73
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:38,792 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 300
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:38,881 - DNS Query: settings.luckyorange.net.
+Findings:
+  Length: 25
+  Entropy: 3.72
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,014 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 300
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,065 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 273
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,286 - DNS Query: 6fd26ace779dc5612abfb34d2156f2d9.safeframe.googlesyndication.com.
+Findings:
+  Length: 65
+  Entropy: 4.44
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Suspicious (Tunneling/Frequent)
+2025-03-11 20:40:39,349 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 300
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,476 - DNS Query: analytics.google.com.
+Findings:
+  Length: 21
+  Entropy: 3.56
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,482 - DNS Query: stats.g.doubleclick.net.
+Findings:
+  Length: 24
+  Entropy: 3.72
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,515 - DNS Query: td.doubleclick.net.
+Findings:
+  Length: 19
+  Entropy: 3.47
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,545 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 236
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,563 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 218
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,580 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 216
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,699 - DNS Query: www.google.co.in.
+Findings:
+  Length: 17
+  Entropy: 2.94
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,784 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 216
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:39,815 - DNS Query: srv.buysellads.com.
+Findings:
+  Length: 19
+  Entropy: 3.64
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,900 - DNS Query: srv.carbonads.net.
+Findings:
+  Length: 18
+  Entropy: 3.46
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:39,946 - DNS Query: www.google.co.in.
+Findings:
+  Length: 17
+  Entropy: 2.94
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Normal
+2025-03-11 20:40:39,982 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 386
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,083 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 19461
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,116 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 216
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,163 - DNS Query: www.facebook.com.
+Findings:
+  Length: 17
+  Entropy: 3.13
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,201 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1408
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,267 - DNS Query: tpc.googlesyndication.com.
+Findings:
+  Length: 26
+  Entropy: 3.72
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,317 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 213
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,413 - DNS Query: tpc.googlesyndication.com.
+Findings:
+  Length: 26
+  Entropy: 3.72
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Prediction: Normal
+2025-03-11 20:40:40,430 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 213
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,439 - DNS Query: c.amazon-adsystem.com.
+Findings:
+  Length: 22
+  Entropy: 3.54
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,446 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 509
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,460 - DNS Query: www.googleadservices.com.
+Findings:
+  Length: 25
+  Entropy: 3.64
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,475 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 212
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,619 - DNS Query: www.google-analytics.com.
+Findings:
+  Length: 25
+  Entropy: 3.75
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,627 - DNS Query: ag.dns-finder.com.
+Findings:
+  Length: 18
+  Entropy: 3.68
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Prediction: Normal
+2025-03-11 20:40:40,645 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 228
+  Frequency (10s): 0
+  Prediction: Normal
+2025-03-11 20:40:40,657 - DNS Query: 
+Findings:
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 91
+  Frequency (10s): 0
+  Prediction: Normal

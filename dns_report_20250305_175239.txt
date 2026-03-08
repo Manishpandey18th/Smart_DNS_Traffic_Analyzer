@@ -1,0 +1,2891 @@
+Smart DNS Traffic Analyzer Report
+Generated on: 2025-03-05 17:52:39
+Thresholds: Entropy>3.8, Length>35, TTL<10, Freq>5
+--------------------------------------------------
+
+Summary:
+  Normal: 208
+  Suspicious (Tunneling/Frequent): 108
+  Spoofing Detected: 4
+
+Detailed Log:
+Time: 2025-03-05 17:50:51
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9984
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9984
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9984
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 761
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 761
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 761
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:51
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: prod.rewardsplatform.microsoft.com.
+  Length: 35
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: prod.rewardsplatform.microsoft.com.
+  Length: 35
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: prod.rewardsplatform.microsoft.com.
+  Length: 35
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:52
+DNS Query: substrate.office.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 190
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 190
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: www.bing.com.
+  Length: 13
+  Entropy: 2.97
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 189
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 563
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:53
+DNS Query: prod.rewardsplatform.microsoft.com.
+  Length: 35
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: prod.rewardsplatform.microsoft.com.
+  Length: 35
+  Entropy: 3.70
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9460
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9460
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9460
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: main.vscode-cdn.net.
+  Length: 20
+  Entropy: 3.55
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: main.vscode-cdn.net.
+  Length: 20
+  Entropy: 3.55
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: main.vscode-cdn.net.
+  Length: 20
+  Entropy: 3.55
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 562
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3318
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3318
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:54
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3318
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:55
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:55
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:55
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: accounts.google.com.
+  Length: 20
+  Entropy: 3.35
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: accounts.google.com.
+  Length: 20
+  Entropy: 3.35
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: accounts.google.com.
+  Length: 20
+  Entropy: 3.35
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: accounts.google.com.
+  Length: 20
+  Entropy: 3.35
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: accounts.google.com.
+  Length: 20
+  Entropy: 3.35
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:56
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 9
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:57
+DNS Query: data.iana.org.
+  Length: 14
+  Entropy: 2.90
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9977
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9977
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 65
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 65
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 65
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:50:58
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:59
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:59
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:59
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 10
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:59
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 11
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:50:59
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 12
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 13
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:00
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 14
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 15
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:01
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1267
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1267
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 247
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:02
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8
+  Frequency (10s): 0
+  Status: Spoofing Detected
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 246
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: f-log-extension.grammarly.io.
+  Length: 29
+  Entropy: 3.91
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:03
+DNS Query: maps.google.com.
+  Length: 16
+  Entropy: 3.16
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:04
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8
+  Frequency (10s): 0
+  Status: Spoofing Detected
+--------------------------------------------------
+Time: 2025-03-05 17:51:04
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:04
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:04
+DNS Query: prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com.
+  Length: 66
+  Entropy: 4.01
+  Subdomains: 5
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9972
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 9972
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 60
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3187
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3187
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3187
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:05
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: auth.grammarly.com.
+  Length: 19
+  Entropy: 3.39
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8
+  Frequency (10s): 0
+  Status: Spoofing Detected
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 28
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 9
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:06
+DNS Query: gnar.grammarly.com.
+  Length: 19
+  Entropy: 3.14
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 10
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:07
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1260
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1260
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.google.com.
+  Length: 15
+  Entropy: 2.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.google.com.
+  Length: 15
+  Entropy: 2.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.google.com.
+  Length: 15
+  Entropy: 2.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.google.com.
+  Length: 15
+  Entropy: 2.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.google.com.
+  Length: 15
+  Entropy: 2.82
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:09
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 742
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 244
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 244
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 244
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 244
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8137
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: treatment.grammarly.com.
+  Length: 24
+  Entropy: 3.38
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: treatment.grammarly.com.
+  Length: 24
+  Entropy: 3.38
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: treatment.grammarly.com.
+  Length: 24
+  Entropy: 3.38
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:10
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 9
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 131
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 131
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 131
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 14859
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 14860
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 10
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 11
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:11
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 12
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 13
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 14
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: google.com.
+  Length: 11
+  Entropy: 2.66
+  Subdomains: 1
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: google.com.
+  Length: 11
+  Entropy: 2.66
+  Subdomains: 1
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 69
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:12
+DNS Query: edge.microsoft.com.
+  Length: 19
+  Entropy: 3.43
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1257
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1270
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 299
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 15
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 16
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 17
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 18
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:13
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 19
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 20
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 21
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: www.commclassroom.org.
+  Length: 22
+  Entropy: 3.17
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 22
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:14
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 239
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 239
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 8132
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:15
+DNS Query: deff.nelreports.net.
+  Length: 20
+  Entropy: 3.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 152
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 152
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 152
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: www.mygreatlearning.com.
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: www.mygreatlearning.com.
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: www.mygreatlearning.com.
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: www.mygreatlearning.com.
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: www.mygreatlearning.com.
+  Length: 24
+  Entropy: 3.69
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: d3w1kvgvzbz2b5.cloudfront.net.
+  Length: 30
+  Entropy: 4.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:16
+DNS Query: d3w1kvgvzbz2b5.cloudfront.net.
+  Length: 30
+  Entropy: 4.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: d3w1kvgvzbz2b5.cloudfront.net.
+  Length: 30
+  Entropy: 4.28
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3517
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3517
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:17
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3517
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3517
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 3517
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 60
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 60
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 73
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:18
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: ntp.msn.com.
+  Length: 12
+  Entropy: 2.86
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 14853
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 14853
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:19
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:20
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:21
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:21
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:21
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 9
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:21
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 10
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: gates.grammarly.com.
+  Length: 20
+  Entropy: 3.41
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:22
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 69
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: None
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 11
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:23
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 12
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:24
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1
+  Frequency (10s): 0
+  Status: Spoofing Detected
+--------------------------------------------------
+Time: 2025-03-05 17:51:24
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1049
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:24
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:24
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:24
+DNS Query: edge-consumer-static.azureedge.net.
+  Length: 35
+  Entropy: 3.78
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1047
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 1047
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 9
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.gstatic.com.
+  Length: 18
+  Entropy: 3.31
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 230
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: 
+  Length: 0
+  Entropy: 0.00
+  Subdomains: 0
+  TTL: 230
+  Frequency (10s): 0
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 1
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 2
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 3
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 13
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: nav-edge.smartscreen.microsoft.com.
+  Length: 35
+  Entropy: 3.82
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 14
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:25
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 4
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 5
+  Status: Normal
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 6
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:26
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 10
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:27
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:27
+DNS Query: fonts.googleapis.com.
+  Length: 21
+  Entropy: 3.59
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:28
+DNS Query: config.extension.grammarly.com.
+  Length: 31
+  Entropy: 3.85
+  Subdomains: 3
+  TTL: None
+  Frequency (10s): 11
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:28
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:28
+DNS Query: vars.hotjar.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 8
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
+Time: 2025-03-05 17:51:28
+DNS Query: api.opmnstr.com.
+  Length: 16
+  Entropy: 3.33
+  Subdomains: 2
+  TTL: None
+  Frequency (10s): 7
+  Status: Suspicious (Tunneling/Frequent)
+--------------------------------------------------
