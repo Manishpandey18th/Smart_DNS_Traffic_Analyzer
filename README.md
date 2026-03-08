@@ -11,7 +11,7 @@
 - [Customization](#customization)
 - [Technologies Used](#technologies-used)
 - [Future Enhancements](#future-enhancements)
-- 
+
 ## Features
 
 - ⚡ Real-time DNS packet capture and analysis (UDP port 53)
@@ -49,10 +49,12 @@ beepy==1.0.7
 
 ## Usage
 → Run CLI version
-```bash python smart_dns_analyzer.py 
+```bash
+python smart_dns_analyzer.py 
 ```
 Run GUI version (Tkinter)
-```bash python tkinter_gui.py 
+```bash
+python tkinter_gui.py 
 ```
 
 ## How It Works
@@ -74,7 +76,8 @@ Run GUI version (Tkinter)
 
 ## Customization
 → Edit detection thresholds in the scripts:
-```bash PythonTHRESHOLD_ENTROPY = 3.8
+```bash Python
+THRESHOLD_ENTROPY = 3.8
 THRESHOLD_LENGTH  = 35
 THRESHOLD_TTL     = 10
 THRESHOLD_FREQ    = 5
