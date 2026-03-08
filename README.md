@@ -2,10 +2,6 @@
 
 **Real-time DNS traffic monitoring tool that detects spoofing, tunneling, and suspicious patterns — with both CLI and beautiful Tkinter GUI.**
 
-[<image-card alt="Python" src="https://img.shields.io/badge/python-3.9%2B-blue" ></image-card>](https://www.python.org/)
-[<image-card alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>](https://opensource.org/licenses/MIT)
-[<image-card alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/smart-dns-analyzer?style=social" ></image-card>](https://github.com/your-username/smart-dns-analyzer)
-
 <p align="center">
   <img src="https://via.placeholder.com/800x400.png?text=GUI+Screenshot+Here" alt="GUI Screenshot" width="800"/>
   <!-- Replace with real screenshot when you have one -->
