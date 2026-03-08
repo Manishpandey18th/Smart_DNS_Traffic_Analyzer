@@ -60,16 +60,16 @@ python tkinter_gui.py
 ## How It Works
 1. Captures live DNS traffic using Scapy
 2. Extracts key features from each query:
-→ Entropy of domain name
-→ Query length
-→ Number of subdomains
-→ TTL values
-→ Query frequency / time-based patterns
+- Entropy of domain name
+- Query length
+- Number of subdomains
+- TTL values
+- Query frequency / time-based patterns
 
 3. Classifies traffic using Random Forest model + rule-based heuristics:
-→ Normal
-→ Suspicious
-→ Spoofing / Malicious
+- Normal
+- Suspicious
+- Spoofing / Malicious
 
 4. Displays real-time results (GUI) or terminal output (CLI)
 5. Logs flagged queries and generates exportable reports
@@ -84,17 +84,12 @@ THRESHOLD_FREQ    = 5
 ```
 
 ## Technologies Used
-→ Python
-
-→ Scapy (packet sniffing)
-
-→ Tkinter (GUI)
-
-→ Pandas & NumPy (data processing)
-
-→ scikit-learn (Random Forest anomaly detection)
-
-→ Npcap (Windows packet capture driver)
+- Python
+- Scapy (packet sniffing)
+- Tkinter (GUI)
+- Pandas & NumPy (data processing)
+- scikit-learn (Random Forest anomaly detection)
+- Npcap (Windows packet capture driver)
 
 
 
